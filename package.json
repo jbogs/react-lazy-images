@@ -1,5 +1,5 @@
 {
-  "name": "react-lazy-images",
+  "name": "@jbogs/react-lazy-images",
   "description": "React utilities for lazy image loading",
   "version": "1.1.0",
   "source": "src/index.tsx",
